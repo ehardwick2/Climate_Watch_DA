@@ -1,7 +1,7 @@
 # Climate Watch Exploratory Data Analysis
 Repository for exploring Climate Watch Historical Emissions data. Includes interactive dashboard(s) in Excel.
 
-A static image of the dashboard (Excel file can be downloaded: https://github.com/ehardwick2/Climate_Watch_DA/blob/main/CW_historical_emissions.xlsx):
+A static image of the dashboard (Excel file can be downloaded [here:] (https://github.com/ehardwick2/Climate_Watch_DA/blob/main/CW_historical_emissions.xlsx)
 
 ![image](https://user-images.githubusercontent.com/102127193/230810092-58c81203-b8fe-45e1-ab7b-bac44372a8b1.png)
 
