@@ -1,5 +1,5 @@
 # Climate Watch Exploratory Data Analysis
-Repository for exploring Climate Watch Historical Emissions data. Includes interactive dashboard(s) iin Excel.
+Repository for exploring Climate Watch Historical Emissions data. Includes interactive dashboard(s) in Excel.
 
 A static image of the dashboard (Excel file can be downloaded):
 
